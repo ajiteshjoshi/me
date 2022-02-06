@@ -54,6 +54,7 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   
     - <a href="google.com">Links</a>
+    Unity
     <img src="https://th.bing.com/th/id/OIP.CL_GWqULddWEElx71eZ8OwHaEK?w=316&h=180&c=7&r=0&o=5&pid=1.7"/>
     - Images (/images/landscape-trees.jpg)
 
