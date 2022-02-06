@@ -54,8 +54,8 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   
     - <a href="google.com">Links</a>
-    Unity
-    <img src="https://github.com/ajiteshjoshi/me/blob/master/images/landscape-trees.jpg"/>
+    Tree
+    <img src="./images/landscape-trees.jpg"/>
     - Images (/images/landscape-trees.jpg)
 
 content:
