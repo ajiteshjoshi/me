@@ -78,7 +78,9 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project <img src="./images/landscape-trees.jpg"/>
+          Description about the work on/with the project 
+          
+          <img src="./images/landscape-trees.jpg"/>
 
   - title: Experience
     layout: list
