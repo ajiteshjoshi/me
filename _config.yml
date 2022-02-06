@@ -78,7 +78,7 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project 
+          Description about the work with the project 
           
           <img src="./images/landscape-trees.jpg"/>
 
