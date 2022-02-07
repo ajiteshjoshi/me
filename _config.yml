@@ -62,44 +62,37 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work with the project 
+#       - layout: left
+#         border: weak  # Value of `weak` will display a weak border below this item. # Any 
+#                       # other value (or no value) means no border will be displayed
+#         title: Project name
+#         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         link_text: Link Text
+#         additional_links:
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#             icon: fab fa-github
+#             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#         quote: >
+#           Short overview of the project (optional)
+#         description: | # this will include new lines to allow paragraphs
+#           Description about the work with the project 
           
-          <img src="./images/landscape-trees.jpg"/>
+#           <img src="./images/landscape-trees.jpg"/>
           
       - layout: left
         border: weak
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Escape Awaits
         quote: >
-          Short overview of the project (optional)
+          Students’ Summer Online Projects (SSOP) 2020, IIT Gandhinagar [April-June 2020]
         description: | # this will include new lines to allow paragraphs
-          Description about the work with the project 
-          
-          <img src="./images/landscape-trees.jpg"/>
+          o A 3D story based game with a massive game world.
+          o Got the second prize in a college organized game jam.
+          o Programmed mechanics and AI of a werewolf enemy.
+          o Implemented various design patterns including the singleton pattern, observer pattern, and command pattern.
+          o Used JsonUtility and PlayerPrefs to save persistent data on disk.
 
     
   - title: Experience
@@ -117,7 +110,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Indian Institute of Technology Gandhinagar
         sub_title: BTech Electrical Engineering
         caption: 2019 - Present
