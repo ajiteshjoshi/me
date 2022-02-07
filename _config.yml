@@ -81,7 +81,10 @@ content:
           Description about the work with the project 
           
           <img src="./images/landscape-trees.jpg"/>
-
+  
+    content:
+      - layout: left
+        border: weak
         title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
