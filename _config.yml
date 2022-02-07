@@ -52,11 +52,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  
-    - <a href="google.com">Links</a>
-    Tree
-    <img src="./images/landscape-trees.jpg"/>
-    - Images (/images/landscape-trees.jpg)
+
 
 content:
   - title: Projects # Title for the section
@@ -97,6 +93,37 @@ content:
           o Implemented various design patterns including the singleton pattern, observer pattern, and command pattern.
           
           o Used JsonUtility and PlayerPrefs to save persistent data on disk.
+          
+      - layout: left
+        border: weak
+        title: AR Blocks
+        quote: >
+          Minecraft Earth replica
+        description: |
+          o Developed AR application to build an augmented 3D environment on pre defined surface.
+          
+          o Explored the augmented reality world using Vuforia Engine.
+          
+      - layout: left
+        border: weak
+        title: AFPS
+        quote: >
+          AFPS, multiplayer FPS game with DiGiS
+        description: | # this will include new lines to allow paragraphs
+          o Developing a multiplayer first person shooter, based on Indian gang war theme, with twenty five other members from DiGiS.
+
+          o Programmed mechanics for various guns, and impluse jump.
+          
+          o Developed 3D models for indian themed sniper rifle and assault rifle.
+          
+      - layout: left
+        border: weak
+        title: Fluid Simulation for Viscous fluids
+        quote: >
+          MA202 course project
+        description: | # this will include new lines to allow paragraphs
+          o Developing a fluid simulation for viscous fluids using navier stokes equation.
+        
 
     
   - title: Experience
