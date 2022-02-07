@@ -89,9 +89,13 @@ content:
           Students’ Summer Online Projects (SSOP) 2020, IIT Gandhinagar [April-June 2020]
         description: | # this will include new lines to allow paragraphs
           o A 3D story based game with a massive game world.
+          
           o Got the second prize in a college organized game jam.
+          
           o Programmed mechanics and AI of a werewolf enemy.
+          
           o Implemented various design patterns including the singleton pattern, observer pattern, and command pattern.
+          
           o Used JsonUtility and PlayerPrefs to save persistent data on disk.
 
     
@@ -111,7 +115,7 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: Indian Institute of Technology Gandhinagar
+        title: IIT Gandhinagar
         sub_title: BTech Electrical Engineering
         caption: 2019 - Present
 
