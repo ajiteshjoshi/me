@@ -122,7 +122,7 @@ content:
         quote: >
           MA202 course project
         description: | # this will include new lines to allow paragraphs
-          o Developing a fluid simulation for viscous fluids using navier stokes equation.
+          o Developed a fluid simulation for viscous fluids using navier stokes equation.
         
 
     
