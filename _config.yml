@@ -122,6 +122,18 @@ content:
           
       - layout: left
         border: weak
+        title: Grass Cutter
+        quote: >
+          Grass cutting Simulator
+        link: https://drive.google.com/file/d/1m6Lx6YzGp2H0KHC79GUMlJb5EyTTZobI/view?usp=sharing
+        link_text: Game Trailer
+        description: |
+          o Developed a grass cutting and chest finding hypercasual game.
+
+          o Programmed mechanics for boomerang, and grass slicing.
+          
+      - layout: left
+        border: weak
         title: Fluid Simulation for Viscous fluids
         quote: >
           MA202 course project
