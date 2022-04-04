@@ -153,8 +153,12 @@ content:
         quote: > 
           Snapper is a wireless photobooth camera for EVERYONE, where you can connect, click and download wide + aerial angle photos INSTANTLY, without APP or INTERNET.
         description: | # this will include new lines to allow paragraphs
-          Bringing augmented reality on a bird eye view camera. Working with embedded systems and cameras to develop a new platform for augmented reality. Wearing different hats to bring the application on web.
-  - title: Education
+          o Bringing augmented reality on a bird eye view camera. Working with embedded systems and cameras to develop a new platform for augmented reality. Wearing different hats to bring the application on web.
+          
+          o  Used various webAR frameworks like threeJS, jeelizFaceFilter, along with mediapipe and OpenGL for developing the filters.
+          
+
+- title: Education
     layout: list
     content:
       - layout: top-left
