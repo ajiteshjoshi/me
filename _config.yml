@@ -157,8 +157,7 @@ content:
           
           o  Used various webAR frameworks like threeJS, jeelizFaceFilter, along with mediapipe and OpenGL for developing the filters.
           
-
-- title: Education
+  - title: Education
     layout: list
     content:
       - layout: top-left
